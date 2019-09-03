@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<GridLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:rowCount="7"
+    android:columnCount="2"
+    android:useDefaultMargins="true"
+    tools:context=".MainActivity"><!--margem de 8 dp-->
+
+
+    <TextView
+        android:id="@+id/gasolinaTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_columnSpan="2"
+        android:layout_gravity="fill_horizontal"
+        android:text="@string/gas"
+        android:textSize="24sp" />
+
+    <SeekBar
+        android:id="@+id/gasolinaSeekBar"
+        android:layout_width="wrap_content"
+        android:layout_height="40dp"
+        android:layout_columnSpan="2"
+        android:layout_gravity="fill_horizontal" />
+
+    <TextView
+        android:id="@+id/etanolTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_columnSpan="2"
+        android:layout_gravity="fill_horizontal"
+        android:text="@string/ethanol"
+        android:textSize="24sp" />
+
+    <SeekBar
+        android:id="@+id/etanolSeekBar"
+        android:layout_width="wrap_content"
+        android:layout_height="40dp"
+        android:layout_columnSpan="2"
+        android:layout_gravity="fill_horizontal" />
+
+    <TextView
+        android:id="@+id/escolhaTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_columnSpan="2"
+        android:layout_gravity="fill_horizontal"
+        android:text="@string/ethanol"
+        android:textSize="24sp" />
+
+    <TextView
+        android:id="@+id/respTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_columnSpan="2"
+        android:layout_gravity="fill_horizontal"
+        android:text="@string/ethanol"
+        android:textSize="24sp" />
+
+</GridLayout>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Gas_Ethanol_Exercise</string>
+    <string name="gas"></string>
+    <string name="ethanol"></string>
+</resources>
