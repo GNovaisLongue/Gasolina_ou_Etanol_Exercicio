@@ -3,4 +3,7 @@
     <string name="app_name"></string>
     <string name="gas"></string>
     <string name="ethanol"></string>
+    <string name="choice">You should use</string>
+    <string name="gasValue">1.09</string>
+    <string name="answer"></string>
 </resources>

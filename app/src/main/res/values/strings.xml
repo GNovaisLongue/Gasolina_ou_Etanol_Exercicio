@@ -2,7 +2,7 @@
     <string name="app_name">Gasoline_Ethanol_Exercise</string>
     <string name="gas">Price of a liter of gasoline</string>
     <string name="ethanol">Price of a liter of ethanol</string>
-    <string name="choice">You should use</string>
-    <string name="answer_gas">Gasoline</string>
-    <string name="answer_ethanol">Ethanol</string>
+    <string name="choice">You should use:</string>
+    <string name="gasValue">1.09</string>
+    <string name="answer"></string>
 </resources>

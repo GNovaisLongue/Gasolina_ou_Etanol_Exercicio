@@ -3,4 +3,7 @@
     <string name="app_name">Gasolina_Etanol_exercicio</string>
     <string name="gas">Preço do Litro da Gasolina</string>
     <string name="ethanol">Preço do Litro de Etanol</string>
+    <string name="choice">Você deveria usar</string>
+    <string name="gasValue">1.09</string>
+    <string name="answer"></string>
 </resources>
