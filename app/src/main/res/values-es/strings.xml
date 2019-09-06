@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Gas_Ethanol_Exercise</string>
-    <string name="gas"></string>
-    <string name="ethanol"></string>
-    <string name="choice">You should use</string>
+    <string name="app_name">Más barato: Gasolina o Etanol</string>
+    <string name="gas">" Precio de un litro de gasolina"</string>
+    <string name="ethanol">" Precio de un litro de etanol"</string>
+    <string name="choice">Deberías usar:</string>
     <string name="gasValue">1.09</string>
-    <string name="answer"></string>
+    <string name="ethanolValue">0.94</string>
+    <string name="gasAnswer">Gasolina</string>
+    <string name="ethanolAnswer">Etanol</string>
 </resources>

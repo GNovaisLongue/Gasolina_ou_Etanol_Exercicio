@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name"></string>
-    <string name="gas"></string>
-    <string name="ethanol"></string>
-    <string name="choice">You should use</string>
+    <string name="app_name">"便宜：汽油或乙醇 "</string>
+    <string name="gas">"一升汽油的价格 "</string>
+    <string name="ethanol">"一升乙醇的价格 "</string>
+    <string name="choice">"你应该使用： "</string>
     <string name="gasValue">1.09</string>
-    <string name="answer"></string>
+    <string name="ethanolValue">0.94</string>
+    <string name="gasAnswer">汽油</string>
+    <string name="ethanolAnswer">乙醇</string>
 </resources>
